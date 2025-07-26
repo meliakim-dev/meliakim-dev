@@ -51,5 +51,5 @@ Currently preparing for a global career expansion while crafting portfolio proje
 ---
 
 ## 📫 Links
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
-- 📓 [Notion](https://yourportfolio.site) — Full project descriptions & visuals
+- 💼 [LinkedIn]()
+- 📓 [Notion]() — Full project descriptions & visuals
