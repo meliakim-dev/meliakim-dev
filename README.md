@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Melia Kim]
+# 👋 Hi there! I'm Melia Kim
 
 🎮 Game Developer | 💡 Systems & UI Programmer | 🌏 Preparing for Working Holiday (Australia)
 
@@ -15,7 +15,7 @@ Currently preparing for a global career expansion while crafting portfolio proje
   Provided VFX production and scripting support necessary for video production using Unity for one year.
   
 - 👥 **Team Management (2 Years)**  
-  Held a **Manager** position at [Pond], leading team coordination and project execution in a fast-paced development environment.
+  Held a **Manager** position at Pond, leading team coordination and project execution in a fast-paced development environment.
 
 - 🗂️ **Project Manager Role (Current)**  
   Currently working as the **PM (Project Manager)** for an in-development Roblox-based game project, handling task planning, communication, and overall project direction.
