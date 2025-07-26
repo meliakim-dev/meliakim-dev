@@ -6,9 +6,7 @@ I'm passionate about building interactive gameplay systems and user-focused expe
 Currently preparing for a global career expansion while crafting portfolio projects and exploring remote opportunities.
 
 ## 🔧 Tech Stack
-- **Languages:** Lua, C#, Java, Javascript
-- **Engines:** Roblox Studio, Unity5
-- **Tools:** Git, Figma
+Lua (Roblox), C#, Unity, JavaScript, HTML/CSS, Blender
 
 ## 🚀 Experience Highlights
 - 🧠 **Unity Projects (1 Year)**  
@@ -19,8 +17,8 @@ Currently preparing for a global career expansion while crafting portfolio proje
 
 - 🗂️ **Project Manager Role (Current)**  
   Currently working as the **PM (Project Manager)** for an in-development Roblox-based game project, handling task planning, communication, and overall project direction.
-
-## 🚀 Sample Projects
+  
+## 📜 Sample Projects
 - 🏃‍♂️ **Hyundai Future Adventure** (Roblox)  
   Game core loop sample including intermission, timer, killpart, and checkpoint  
   Sample lobby system implemented using mouse hovering  
@@ -44,4 +42,4 @@ Currently preparing for a global career expansion while crafting portfolio proje
 
 ## 📫 Links
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
-- 📓 [Notion](https://yourportfolio.site)
+- 📓 [Notion](https://yourportfolio.site) <- see all projects with descriptions & visuals here!
