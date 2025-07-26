@@ -21,23 +21,20 @@ Currently preparing for a global career expansion while crafting portfolio proje
   Currently working as the **PM (Project Manager)** for an in-development Roblox-based game project, handling task planning, communication, and overall project direction.
 
 ## 🚀 Sample Projects
-- 🛠️ **Hyundai Mobility Adventure** (Roblox)  
+- 🏃‍♂️ **Hyundai Future Adventure** (Roblox)  
   Game core loop sample including intermission, timer, killpart, and checkpoint  
-  → [GitHub](-)  
   Sample lobby system implemented using mouse hovering  
-  → [GitHub](-)  
   Sample mini-game module implemented with ClickDetector  
-  → [GitHub](-)  
+  → [GitHub](https://github.com/meliakim-dev/hfa-sample)  
 
 - 📦 **Work Together! GS25** (Roblox)  
-  Data store structure and update method sample  
-  → [GitHub](-)  
+  Data store structure and update method sample   
   Furniture customization using parts move system sample  
-  → [GitHub](-)  
+  → [GitHub](https://github.com/meliakim-dev/gs25-sample)  
 
-- 📦 **Prism Runway Show** (Roblox)  
+- ✨ **Prism Runway Show** (Roblox)  
   Color customization samples with part  
-  → [GitHub](-)  
+  → [GitHub](https://github.com/meliakim-dev/prs-sample)  
 
 ## 🌏 Career & Goals
 - ✅ 4 year of professional game development experience in roblox
